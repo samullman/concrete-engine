@@ -1,6 +1,5 @@
 <script>
 	import '../../src/app.scss';
-	import Header from '../components/header.svelte';
 </script>
 
 <a href="/" preload>
