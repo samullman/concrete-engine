@@ -1,0 +1,21 @@
+h1 {
+	margin: 0;
+
+	@media screen and (min-width: $breakpoint) {
+		text-align: center;
+	}
+}
+
+body {
+	font-family: 'Abel', sans-serif;
+	padding: 1.5rem;
+
+	@media screen and (min-width: $breakpoint) {
+		padding: 2rem;
+	}
+}
+
+body {
+	background: linear-gradient(220deg, #dbc758, #3268a8);
+	color: #0f0f0f;
+}
